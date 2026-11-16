@@ -1,0 +1,7251 @@
+{
+  "ResultsByTime": [
+    {
+      "TimePeriod": {
+        "Start": "2026-04-01",
+        "End": "2026-05-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue",
+            "EUC1-Catalog-Request"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "eu-central-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000005399",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000564682",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000033416",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0002457575",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000032174",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000412512",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000009389",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-ATL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-ATL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000004057",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000372256",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CPH1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CPH1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000004872",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CPUCredits:t3"
+          ],
+          "Amount": "6.4671963",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-DataTransfer-Regional-Bytes"
+          ],
+          "Amount": "1.2434388538",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EBS:VolumeUsage.gp2"
+          ],
+          "Amount": "9.519999984",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000072219",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000007738",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000092932",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000037406",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-HNL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-HNL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002122",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MCI2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MCI2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000107675",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000004592",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-NYC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000574933",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000013972",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PHL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PHL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000093037",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000099",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000063925",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0013464099",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0007111019",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000071697",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0018334451",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-BoxUsage:t3.small"
+          ],
+          "Amount": "17.260686672",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000007",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000014",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS8-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS9-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ESC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000007",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-InstanceUsage:db.t3.micro"
+          ],
+          "Amount": "14.4",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:GP2-Storage"
+          ],
+          "Amount": "2.740000032",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001612",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000044724",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0.0001728",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier2"
+          ],
+          "Amount": "0.0000946",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0.0003326084",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Global-Bucket-Hrs-FreeTier"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier1"
+          ],
+          "Amount": "0.000075",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier2"
+          ],
+          "Amount": "0.0000104",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-EUC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000218",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:IdleAddress"
+          ],
+          "Amount": "0.000083335",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:InUseAddress"
+          ],
+          "Amount": "7.199975",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:AlarmMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:MetricMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax",
+            "NoUsageType"
+          ],
+          "Amount": "11.18",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-05-01",
+        "End": "2026-06-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue",
+            "EUC1-Catalog-Request"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "eu-central-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-AKL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-AKL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001744",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000004953",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000762",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000533964",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.00006835",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000068463",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0003149776",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000097798",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000747199",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000153098",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS6-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS6-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000001066",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000049546",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-DataTransfer-Regional-Bytes"
+          ],
+          "Amount": "1.9768463785",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EBS:VolumeUsage.gp2"
+          ],
+          "Amount": "9.5199999816",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001059696",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000054872",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000082354",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000363502",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MIA1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MIA1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000298098",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000008352",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-NYC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000014634",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000014707",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PHL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PHL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001741",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000132",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000032209",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-UGW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0011767651",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0009852901",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001265838",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0022714704",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-BoxUsage:t3.small"
+          ],
+          "Amount": "17.856",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000015",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000007",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-InstanceUsage:db.t3.micro"
+          ],
+          "Amount": "14.88",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-MXC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:GP2-Storage"
+          ],
+          "Amount": "2.7400000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002895",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000041304",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier2"
+          ],
+          "Amount": "0.00000344",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0.0005869571",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Global-Bucket-Hrs-FreeTier"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier1"
+          ],
+          "Amount": "0.00003",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-EUC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000402",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:InUseAddress"
+          ],
+          "Amount": "7.44",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:AlarmMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:MetricMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax",
+            "NoUsageType"
+          ],
+          "Amount": "10.34",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-06-01",
+        "End": "2026-07-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Certificate Manager",
+            "USE1-IssuePublicCertificateDomain"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Glue",
+            "EUC1-Catalog-Request"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "eu-central-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "us-east-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000000203",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Executions-CloudFrontFunctions"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Invalidations"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000000242",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000048",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000076931",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000003605",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0002183182",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001866635",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0002572661",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000002409",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS5-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001349926",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000147352",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-DataTransfer-Regional-Bytes"
+          ],
+          "Amount": "1.0316875178",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EBS:VolumeUsage.gp2"
+          ],
+          "Amount": "9.519999984",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001288724",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001139063",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000072698",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0002672451",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-ILC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002992",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-LAS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-LAS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000003705",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MIA1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MIA1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000187706",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000006945",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-NYC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000009652",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PDX1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PDX1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000321863",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000014841",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PHL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PHL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000009446",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000099",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.001269655",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0007909725",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000162193",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0020550413",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-BoxUsage:t3.small"
+          ],
+          "Amount": "17.28",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS8-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CPH1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-HEL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-InstanceUsage:db.t3.micro"
+          ],
+          "Amount": "14.4",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:GP2-Storage"
+          ],
+          "Amount": "2.740000032",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002501",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000052414",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001001",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Annotation-Tier1"
+          ],
+          "Amount": "0.0000108",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0.1080486",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier2"
+          ],
+          "Amount": "0.00055212",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0.000606924",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Global-Bucket-Hrs-FreeTier"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier1"
+          ],
+          "Amount": "0.00016",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier2"
+          ],
+          "Amount": "0.0000148",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-EUC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000887",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:InUseAddress"
+          ],
+          "Amount": "7.2",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:AlarmMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:MetricMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax",
+            "NoUsageType"
+          ],
+          "Amount": "9.93",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-07-01",
+        "End": "2026-08-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue",
+            "EUC1-Catalog-Request"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "eu-central-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AU-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AU-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AU-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AU-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000000064",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000583061",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Executions-CloudFrontFunctions"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "ME-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "ME-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000150788",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000158564",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000093695",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000068338",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0002037959",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.00012509",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000455438",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000017264",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS5-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000021116",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS9-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS9-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000039",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001189699",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-DataTransfer-Regional-Bytes"
+          ],
+          "Amount": "0.431003418",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EBS:VolumeUsage.gp2"
+          ],
+          "Amount": "9.5199999816",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000156857",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUC2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUC2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001503",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002183",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002983",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000990696",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000784",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-MSP1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.00000036",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-NYC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000003006",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-PER1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001503",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000165",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000152364",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0010736645",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0006047855",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000234287",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0019151057",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-BoxUsage:t3.small"
+          ],
+          "Amount": "17.853819984",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS6-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS9-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000961",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUC2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-InstanceUsage:db.t3.micro"
+          ],
+          "Amount": "14.88",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:GP2-Storage"
+          ],
+          "Amount": "2.7400000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001713",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000038503",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000032",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0.003969",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier2"
+          ],
+          "Amount": "0.00368553",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0.0035855911",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Global-Bucket-Hrs-FreeTier"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier1"
+          ],
+          "Amount": "0.00004",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier2"
+          ],
+          "Amount": "0.0000012",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-EUC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001966",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:IdleAddress"
+          ],
+          "Amount": "0.000083335",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:InUseAddress"
+          ],
+          "Amount": "7.439979165",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:AlarmMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:MetricMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax",
+            "NoUsageType"
+          ],
+          "Amount": "10.04",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-08-01",
+        "End": "2026-09-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue",
+            "EUC1-Catalog-Request"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "eu-central-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000000064",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.000068181",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Executions-CloudFrontFunctions"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Invalidations"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0001179911",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-AFS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-AFS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000005963",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000108718",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002351",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001562714",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000870061",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000100651",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000006506",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000280915",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-DataTransfer-Regional-Bytes"
+          ],
+          "Amount": "0.8704157462",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EBS:VolumeUsage.gp2"
+          ],
+          "Amount": "9.5199999816",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001476796",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000502351",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000038511",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000198",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000132",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000034",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0013785877",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0007852412",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000233761",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0012322205",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-BoxUsage:t3.small"
+          ],
+          "Amount": "17.856",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000112",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS8-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-BOS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000000004",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ExtendedSupport:Yr1-Yr2:MySQL8.0"
+          ],
+          "Amount": "181.536",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-InstanceUsage:db.t3.micro"
+          ],
+          "Amount": "14.88",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:ChargedBackupUsage"
+          ],
+          "Amount": "0.1524560369",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:GP2-Storage"
+          ],
+          "Amount": "2.7400000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-SAE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000007",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002359",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000042637",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000043",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001001",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0.729",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier2"
+          ],
+          "Amount": "0.01245624",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0.0591719184",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Global-Bucket-Hrs-FreeTier"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier1"
+          ],
+          "Amount": "0.000065",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier2"
+          ],
+          "Amount": "0.0000084",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-EUC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002288",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:InUseAddress"
+          ],
+          "Amount": "7.44",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:AlarmMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:MetricMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax",
+            "NoUsageType"
+          ],
+          "Amount": "44.8",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-09-01",
+        "End": "2026-10-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue",
+            "EUC1-Catalog-Request"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "eu-central-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AU-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AU-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AU-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000000188",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000459383",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Executions-CloudFrontFunctions"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000615114",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-AKL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-AKL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000015894",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000039",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000019192",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001869245",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000037761",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0001907534",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000012422",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS5-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000796353",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0578791165",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-DataTransfer-Regional-Bytes"
+          ],
+          "Amount": "1.8086896296",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EBS:VolumeUsage.gp2"
+          ],
+          "Amount": "9.519999984",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000204496",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000041413",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001073",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000948578",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000021461",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-HNL1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-HNL1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000003125",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-ILC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001054",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-NYC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000062928",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000165",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0062788662",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0008911441",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000335175",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0017677123",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-BoxUsage:t3.small"
+          ],
+          "Amount": "17.28",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS9-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ESC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ExtendedSupport:Yr1-Yr2:MySQL8.0"
+          ],
+          "Amount": "9.028",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-ILC1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-InstanceUsage:db.t3.micro"
+          ],
+          "Amount": "14.4",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:ChargedBackupUsage"
+          ],
+          "Amount": "0.1813694376",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:GP2-Storage"
+          ],
+          "Amount": "2.740000032",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000002386",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000026229",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000014",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000000004",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0.3425598",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier2"
+          ],
+          "Amount": "0.0144093",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0.0997464422",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Global-Bucket-Hrs-FreeTier"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier1"
+          ],
+          "Amount": "0.00005",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier2"
+          ],
+          "Amount": "0.0000012",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-EUC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001966",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:InUseAddress"
+          ],
+          "Amount": "7.2",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:AlarmMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:MetricMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax",
+            "NoUsageType"
+          ],
+          "Amount": "11.91",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-10-01",
+        "End": "2026-10-23"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Certificate Manager",
+            "USE1-IssuePublicCertificateDomain"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Glue",
+            "EUC1-Catalog-Request"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "eu-central-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service",
+            "us-east-1-KMS-Requests"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "AP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000000188",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "CA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000114723",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "EU-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Executions-CloudFrontFunctions"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "IN-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "Invalidations"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "JP-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "ME-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "ME-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "SA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-DataTransfer-Out-OBytes"
+          ],
+          "Amount": "0.0000254798",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTP-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-HTTPS-Proxy"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "US-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "ZA-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront",
+            "ZA-Requests-Tier2-HTTPS"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000021237",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000044568",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APN3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.000097189",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000037562",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS3-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000036159",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS4-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000031068",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-CAN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000174206",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-DataTransfer-Regional-Bytes"
+          ],
+          "Amount": "1.6149656493",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EBS:VolumeUsage.gp2"
+          ],
+          "Amount": "6.461827854",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EU-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000185918",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001914",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-EUW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000030336",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-NYC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000033122",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-QRO1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000032",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-SAE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000149382",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.1084712936",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0009190233",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000592141",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0011713714",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-BoxUsage:t3.small"
+          ],
+          "Amount": "12.114526704",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-AFS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APN2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS4-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS5-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS7-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-APS8-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-CAN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EU-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUN1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUS1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-EUW3-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-InstanceUsage:db.t3.micro"
+          ],
+          "Amount": "10.14",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:ChargedBackupUsage"
+          ],
+          "Amount": "0.1703726332",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-RDS:GP2-Storage"
+          ],
+          "Amount": "1.870860186",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-SAE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000001115",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USE2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000020372",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000007",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service",
+            "EUC1-USW2-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000008",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-In-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-DataTransfer-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Annotation-Tier1"
+          ],
+          "Amount": "0.0000054",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier1"
+          ],
+          "Amount": "0.7736796",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-Requests-Tier2"
+          ],
+          "Amount": "0.05476695",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0.1077998866",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Global-Bucket-Hrs-FreeTier"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier1"
+          ],
+          "Amount": "0.00003",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "Requests-Tier2"
+          ],
+          "Amount": "0.0000012",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-CloudFront-Out-Bytes"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service",
+            "USE1-EUC1-AWS-Out-Bytes"
+          ],
+          "Amount": "0.0000000678",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:IdleAddress"
+          ],
+          "Amount": "0.0060514",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud",
+            "EUC1-PublicIPv4:InUseAddress"
+          ],
+          "Amount": "5.07428472",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:AlarmMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-CW:MetricMonitorUsage"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch",
+            "EUC1-TimedStorage-ByteHrs"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax",
+            "NoUsageType"
+          ],
+          "Amount": "7.31",
+          "Unit": "USD"
+        }
+      ]
+    }
+  ]
+}

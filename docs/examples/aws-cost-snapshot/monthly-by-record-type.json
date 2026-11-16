@@ -1,0 +1,165 @@
+{
+  "ResultsByTime": [
+    {
+      "TimePeriod": {
+        "Start": "2026-04-01",
+        "End": "2026-05-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "11.18",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Usage"
+          ],
+          "Amount": "58.8366222919",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-05-01",
+        "End": "2026-06-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "10.34",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Usage"
+          ],
+          "Amount": "54.4187876771",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-06-01",
+        "End": "2026-07-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "9.93",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Usage"
+          ],
+          "Amount": "52.2866830917",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-07-01",
+        "End": "2026-08-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "10.04",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Usage"
+          ],
+          "Amount": "52.8805227643",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-08-01",
+        "End": "2026-09-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "44.8",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Usage"
+          ],
+          "Amount": "235.7996793667",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-09-01",
+        "End": "2026-10-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "11.91",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Usage"
+          ],
+          "Amount": "62.6823809873",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-10-01",
+        "End": "2026-10-23"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "7.31",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Usage"
+          ],
+          "Amount": "38.5000040146",
+          "Unit": "USD"
+        }
+      ]
+    }
+  ]
+}

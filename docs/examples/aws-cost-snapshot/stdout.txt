@@ -1,0 +1,47 @@
+skip (exists): monthly-by-service
+skip (exists): monthly-by-region
+skip (exists): monthly-by-record-type
+skip (exists): monthly-by-service-usage-type
+skip (exists): daily-by-service
+Cost Explorer request 1: anomalies
+Cost Explorer request 2: cost-allocation-tags-Active
+Cost Explorer request 3: cost-allocation-tags-Inactive
+
+Top services (UnblendedCost, last 6 months including the partial current month):
+307.36	Amazon Relational Database Service
+117.5	Amazon Elastic Compute Cloud - Compute
+105.51	Tax
+79.23	EC2 - Other
+49	Amazon Virtual Private Cloud
+2.32	Amazon Simple Storage Service
+0	Amazon CloudFront
+0	AWS Certificate Manager
+0	AWS Glue
+0	AWS Key Management Service
+
+Top regions:
+555.4	eu-central-1
+105.51	NoRegion
+0	us-east-1
+0	eu-west-1
+0	ca-central-1
+0	af-south-1
+0	ap-northeast-1
+0	ap-south-1
+0	ap-southeast-1
+0	ap-southeast-2
+
+Public IPv4 usage types:
+48.99	EUC1-PublicIPv4:InUseAddress
+0.01	EUC1-PublicIPv4:IdleAddress
+
+Cost allocation tags (Project, Parent, Environment, Owner):
+Project: inactive
+Parent: inactive
+Environment: inactive
+Owner: inactive
+
+Cost Explorer requests: 3 (about $0.03).
+JSON: docs/examples/aws-cost-snapshot
+HTML: docs/examples/aws-cost-snapshot/report.html
+Phase 2 and phase 3 were not run.

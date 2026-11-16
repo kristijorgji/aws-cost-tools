@@ -1,0 +1,606 @@
+{
+  "ResultsByTime": [
+    {
+      "TimePeriod": {
+        "Start": "2026-04-01",
+        "End": "2026-05-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other"
+          ],
+          "Amount": "17.2351871863",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute"
+          ],
+          "Amount": "17.260686672",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service"
+          ],
+          "Amount": "17.1400046684",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service"
+          ],
+          "Amount": "0.0006854302",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud"
+          ],
+          "Amount": "7.200058335",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "11.18",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-05-01",
+        "End": "2026-06-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other"
+          ],
+          "Amount": "11.5021628161",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute"
+          ],
+          "Amount": "17.856",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service"
+          ],
+          "Amount": "17.6200044237",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service"
+          ],
+          "Amount": "0.0006204373",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud"
+          ],
+          "Amount": "7.44",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "10.34",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-06-01",
+        "End": "2026-07-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Certificate Manager"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Glue"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Amount": "0.0000000445",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other"
+          ],
+          "Amount": "10.5572840901",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute"
+          ],
+          "Amount": "17.28",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service"
+          ],
+          "Amount": "17.1400056244",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service"
+          ],
+          "Amount": "0.1093933327",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud"
+          ],
+          "Amount": "7.2",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "9.93",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-07-01",
+        "End": "2026-08-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Amount": "0.0000733913",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other"
+          ],
+          "Amount": "9.9552812496",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute"
+          ],
+          "Amount": "17.853819984",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service"
+          ],
+          "Amount": "17.6200041217",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service"
+          ],
+          "Amount": "0.0112815177",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud"
+          ],
+          "Amount": "7.4400625",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "10.04",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-08-01",
+        "End": "2026-09-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Amount": "0.0001861785",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other"
+          ],
+          "Amount": "10.3943307434",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute"
+          ],
+          "Amount": "17.856",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service"
+          ],
+          "Amount": "199.3084606576",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service"
+          ],
+          "Amount": "0.8007017872",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud"
+          ],
+          "Amount": "7.44",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "44.8",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-09-01",
+        "End": "2026-10-01"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Glue"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Amount": "0.0001074685",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other"
+          ],
+          "Amount": "11.3961342435",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute"
+          ],
+          "Amount": "17.28",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service"
+          ],
+          "Amount": "26.3493723365",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service"
+          ],
+          "Amount": "0.4567669388",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud"
+          ],
+          "Amount": "7.2",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "11.91",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "TimePeriod": {
+        "Start": "2026-10-01",
+        "End": "2026-10-23"
+      },
+      "Total": "0",
+      "Groups": [
+        {
+          "Keys": [
+            "AWS Certificate Manager"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Glue"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AWS Key Management Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon CloudFront"
+          ],
+          "Amount": "0.0000369709",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "EC2 - Other"
+          ],
+          "Amount": "8.1875861451",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Elastic Compute Cloud - Compute"
+          ],
+          "Amount": "12.114526704",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Relational Database Service"
+          ],
+          "Amount": "12.1812349702",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Notification Service"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Simple Storage Service"
+          ],
+          "Amount": "0.9362831044",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Amazon Virtual Private Cloud"
+          ],
+          "Amount": "5.08033612",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "AmazonCloudWatch"
+          ],
+          "Amount": "0",
+          "Unit": "USD"
+        },
+        {
+          "Keys": [
+            "Tax"
+          ],
+          "Amount": "7.31",
+          "Unit": "USD"
+        }
+      ]
+    }
+  ]
+}

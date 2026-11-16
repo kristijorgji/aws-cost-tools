@@ -1,0 +1,93 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "CostExplorerRead",
+      "Effect": "Allow",
+      "Action": [
+        "ce:GetCostAndUsage",
+        "ce:GetCostAndUsageWithResources",
+        "ce:GetDimensionValues",
+        "ce:GetTags",
+        "ce:GetCostForecast",
+        "ce:GetAnomalies",
+        "ce:GetCostCategories",
+        "ce:ListCostAllocationTags"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "OptimizationRead",
+      "Effect": "Allow",
+      "Action": [
+        "cost-optimization-hub:ListEnrollmentStatuses",
+        "cost-optimization-hub:ListRecommendations",
+        "cost-optimization-hub:ListRecommendationSummaries",
+        "cost-optimization-hub:GetRecommendation",
+        "cost-optimization-hub:GetPreferences",
+        "compute-optimizer:GetEnrollmentStatus",
+        "compute-optimizer:GetEC2InstanceRecommendations",
+        "compute-optimizer:GetEBSVolumeRecommendations",
+        "compute-optimizer:GetIdleRecommendations",
+        "compute-optimizer:GetRDSDatabaseRecommendations"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "InventoryRead",
+      "Effect": "Allow",
+      "Action": [
+        "ec2:DescribeRegions",
+        "ec2:DescribeInstances",
+        "ec2:DescribeVolumes",
+        "ec2:DescribeAddresses",
+        "ec2:DescribeSnapshots",
+        "ec2:DescribeNatGateways",
+        "rds:DescribeDBInstances",
+        "rds:DescribeDBSnapshots",
+        "rds:ListTagsForResource",
+        "elasticloadbalancing:DescribeLoadBalancers",
+        "elasticloadbalancing:DescribeTargetGroups",
+        "elasticloadbalancing:DescribeTargetHealth",
+        "cloudwatch:GetMetricData"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "DenyMutations",
+      "Effect": "Deny",
+      "Action": [
+        "ec2:TerminateInstances",
+        "ec2:StopInstances",
+        "ec2:StartInstances",
+        "ec2:RebootInstances",
+        "ec2:DeleteVolume",
+        "ec2:ReleaseAddress",
+        "ec2:DeleteSnapshot",
+        "ec2:ModifyInstanceAttribute",
+        "rds:DeleteDBInstance",
+        "rds:DeleteDBSnapshot",
+        "rds:ModifyDBInstance",
+        "rds:StopDBInstance",
+        "ce:StartCommitmentPurchaseAnalysis",
+        "ce:StartSavingsPlansPurchaseRecommendationGeneration",
+        "ce:UpdateCostAllocationTagsStatus",
+        "ce:CreateAnomalyMonitor",
+        "ce:CreateAnomalySubscription",
+        "ce:DeleteAnomalyMonitor",
+        "ce:DeleteAnomalySubscription",
+        "compute-optimizer:UpdateEnrollmentStatus",
+        "cost-optimization-hub:UpdateEnrollmentStatus",
+        "cost-optimization-hub:UpdatePreferences",
+        "iam:CreateUser",
+        "iam:DeleteUser",
+        "iam:CreateAccessKey",
+        "iam:DeleteAccessKey",
+        "iam:AttachUserPolicy",
+        "iam:PutUserPolicy",
+        "iam:CreateLoginProfile"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
