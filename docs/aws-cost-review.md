@@ -5,21 +5,9 @@ resources are still billed. The IAM user can list and describe. It cannot stop, 
 anything.
 
 This repository holds the snapshot script and the policy template. Each AWS account creates its own
-IAM user in its infra repo.
-
-| Account | Infra repo | Terragrunt stack | IAM user / `AWS_PROFILE` | Admin creds |
-| --- | --- | --- | --- | --- |
-| Personal | [kj_devops](https://github.com/kristijorgji/kj_devops) | `terragrunt/envs/aws/prod/global/infra/billing/iam-setup` | `kj-ai-cost-analysis` | `eval $(kj-env)` |
-| Single.al prod | [s_ops_infra_maze](https://github.com/Single-al/s_ops_infra_maze) | `terragrunt/envs/aws/prod/global/infra/billing/iam-setup` | `s-ai-cost-analysis` | `$(s-aws-env prod)` |
+IAM user in its infra repo. Name the IAM user and the local `AWS_PROFILE` the same string.
 
 The snapshot command is [`scripts/aws-cost-snapshot.sh`](../scripts/aws-cost-snapshot.sh).
-
-The IAM user name and the local AWS profile name are the same string. Prefixes keep profiles obvious
-next to each other in `~/.aws`:
-
-- `kj-` for personal
-- `s-` for Single.al
-- another prefix per other project or workplace
 
 ## Table of contents
 
@@ -44,26 +32,25 @@ Work, personal, and project accounts share this one config file. The AWS CLI rea
 file and a single credentials file. It does not merge a `config.d` directory. Name profiles by
 project so they stay obvious next to each other.
 
-Add a new profile named exactly like the IAM user (`kj-ai-cost-analysis` or `s-ai-cost-analysis`).
-Do not put this key in `[default]` or `[login]`.
+Add a new profile named exactly like the IAM user. Do not put this key in `[default]` or `[login]`.
 
-- `[login]` is the source profile for assume-role profiles. Replacing it breaks those profiles.
+- `[login]` is often the source profile for assume-role profiles. Replacing it breaks those
+  profiles.
 - `[default]` is what the AWS CLI uses when `AWS_PROFILE` is unset. Leaving it alone means every
   other terminal keeps working the way it does now.
 - `AWS_PROFILE=...` applies only to the command you prefix with it. Other shells keep their own
   profile.
-- `aws configure --profile <user>` appends a section. It does not rewrite the other sections.
+- `aws configure --profile <iam-user-name>` appends a section. It does not rewrite the other
+  sections.
 
-Admin helpers such as `eval $(kj-env)` or `$(s-aws-env prod)` export `AWS_ACCESS_KEY_ID` and
-`AWS_SECRET_ACCESS_KEY`. Those variables override every named profile. The snapshot script unsets
-them inside its own process and then checks that the caller is `user/<AWS_PROFILE>`. Your shell
-keeps the exports. Open a new terminal, or `unset` those four variables, before a manual `aws` call
-with this profile:
+Admin sessions that export `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` override every named
+profile. The snapshot script unsets them inside its own process and then checks that the caller is
+`user/<AWS_PROFILE>`. Your shell keeps the exports. Open a new terminal, or `unset` those four
+variables, before a manual `aws` call with this profile:
 
 ```bash
 unset AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY AWS_SESSION_TOKEN AWS_DEFAULT_PROFILE
-aws sts get-caller-identity --profile kj-ai-cost-analysis
-# or: --profile s-ai-cost-analysis
+aws sts get-caller-identity --profile <iam-user-name>
 ```
 
 The ARN must end in `user/<that profile name>`.
@@ -84,8 +71,8 @@ Delete the key with admin credentials when you no longer want spend queries. The
 denies `iam:DeleteAccessKey`, so this profile cannot delete itself:
 
 ```bash
-aws iam list-access-keys --user-name kj-ai-cost-analysis
-aws iam delete-access-key --user-name kj-ai-cost-analysis --access-key-id AKIA...
+aws iam list-access-keys --user-name <iam-user-name>
+aws iam delete-access-key --user-name <iam-user-name> --access-key-id AKIA...
 ```
 
 There is no console password. The user cannot sign in to the AWS website.
@@ -109,16 +96,9 @@ off, phase 2 records that and skips recommendations.
 
 ## Create the IAM user
 
-From the **infra** repository root, with admin credentials for that account. Examples:
+From the infra repository, with admin credentials for that account. Typical stack path:
 
 ```bash
-# personal
-eval $(kj-env)
-cd terragrunt/envs/aws/prod/global/infra/billing/iam-setup
-terragrunt apply
-
-# Single.al prod
-$(s-aws-env prod)
 cd terragrunt/envs/aws/prod/global/infra/billing/iam-setup
 terragrunt apply
 ```
@@ -138,8 +118,8 @@ user to get past that.
 
 Terraform apply created the IAM user and attached the policy. The user still cannot sign the API:
 there is no access key yet, and the secret is not in state. You create the key with a later IAM API
-call. That call uses the admin session already exported in the shell. The new user cannot create its
-own key: the policy denies `iam:CreateAccessKey`.
+call. That call uses an admin session that can run `iam:CreateAccessKey`. The new user cannot create
+its own key: the policy denies `iam:CreateAccessKey`.
 
 `--user-name` names the user that already exists in the account. It does not read Terraform state.
 The response prints `AccessKeyId` and `SecretAccessKey` once. Do not commit them, and do not paste
@@ -148,29 +128,21 @@ them into chat.
 `aws configure` only writes those values into `~/.aws`. It does not call AWS.
 
 ```bash
-# personal
-eval $(kj-env)
-aws iam create-access-key --user-name kj-ai-cost-analysis
-aws configure --profile kj-ai-cost-analysis
-aws configure set region us-east-1 --profile kj-ai-cost-analysis
-
-# Single.al prod
-$(s-aws-env prod)
-aws iam create-access-key --user-name s-ai-cost-analysis
-aws configure --profile s-ai-cost-analysis
-aws configure set region us-east-1 --profile s-ai-cost-analysis
+aws iam create-access-key --user-name <iam-user-name>
+aws configure --profile <iam-user-name>
+aws configure set region us-east-1 --profile <iam-user-name>
 ```
 
-`aws configure --profile <user>` appends a section. It does not rewrite `[default]` or `[login]`.
-The region you set is only the CLI default for this profile. The script still passes an explicit
-region on every call. See [Regions](#regions).
+`aws configure --profile <iam-user-name>` appends a section. It does not rewrite `[default]` or
+`[login]`. The region you set is only the CLI default for this profile. The script still passes an
+explicit region on every call. See [Regions](#regions).
 
 Exported admin keys override `--profile`. Unset them before any command that should use the
 cost-analysis profile:
 
 ```bash
 unset AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY AWS_SESSION_TOKEN AWS_DEFAULT_PROFILE
-aws sts get-caller-identity --profile kj-ai-cost-analysis
+aws sts get-caller-identity --profile <iam-user-name>
 ```
 
 ## Run a snapshot
@@ -178,21 +150,20 @@ aws sts get-caller-identity --profile kj-ai-cost-analysis
 From this repository root:
 
 ```bash
-AWS_PROFILE=kj-ai-cost-analysis bash scripts/aws-cost-snapshot.sh
-AWS_PROFILE=s-ai-cost-analysis bash scripts/aws-cost-snapshot.sh
+AWS_PROFILE=<iam-user-name> bash scripts/aws-cost-snapshot.sh
 ```
 
 One enabled region:
 
 ```bash
-AWS_PROFILE=s-ai-cost-analysis bash scripts/aws-cost-snapshot.sh --region eu-central-1
+AWS_PROFILE=<iam-user-name> bash scripts/aws-cost-snapshot.sh --region eu-central-1
 ```
 
 Phase 2 and phase 3 wait until you pass `--confirm-phase`:
 
 ```bash
-AWS_PROFILE=s-ai-cost-analysis bash scripts/aws-cost-snapshot.sh --phase 2 --confirm-phase
-AWS_PROFILE=s-ai-cost-analysis bash scripts/aws-cost-snapshot.sh --phase 3 --confirm-phase
+AWS_PROFILE=<iam-user-name> bash scripts/aws-cost-snapshot.sh --phase 2 --confirm-phase
+AWS_PROFILE=<iam-user-name> bash scripts/aws-cost-snapshot.sh --phase 3 --confirm-phase
 ```
 
 Stdout is a short summary. JSON is written to `tmp/aws-cost/<UTC timestamp>/`, which is gitignored,
@@ -201,12 +172,11 @@ plus `report.html` in that folder. Open the HTML in a browser. Do not commit `tm
 Resume without repeating paid Cost Explorer calls (skips any JSON file that already exists):
 
 ```bash
-AWS_PROFILE=s-ai-cost-analysis bash scripts/aws-cost-snapshot.sh --from-dir tmp/aws-cost/<stamp>
+AWS_PROFILE=<iam-user-name> bash scripts/aws-cost-snapshot.sh --from-dir tmp/aws-cost/<stamp>
 ```
 
-When every phase 1 JSON file is already in the directory, the script makes no AWS calls. A sample
-snapshot from the personal account (2026-10-22) is in
-[`docs/examples/aws-cost-snapshot/`](examples/aws-cost-snapshot/).
+When every phase 1 JSON file is already in the directory, the script makes no AWS calls. A synthetic
+fixture for that offline path is in [`docs/examples/aws-cost-snapshot/`](examples/aws-cost-snapshot/).
 `get-anomalies` uses `--date-interval StartDate=,EndDate=` with end equal to today. Cost and usage
 queries keep an exclusive `End` of tomorrow.
 
@@ -280,9 +250,9 @@ does not enable it.
 
 ## Cost allocation tags
 
-Terragrunt tags resources with `Project`, `Parent`, `Environment`, and `Owner`. Cost Explorer hides
-them until those cost allocation tags are activated. The analyst user is not allowed to activate
-them (`ce:UpdateCostAllocationTagsStatus` is denied).
+Terragrunt often tags resources with `Project`, `Parent`, `Environment`, and `Owner`. Cost Explorer
+hides them until those cost allocation tags are activated. The analyst user is not allowed to
+activate them (`ce:UpdateCostAllocationTagsStatus` is denied).
 
 Activation is an admin action, and it is not part of the snapshot:
 
@@ -316,6 +286,6 @@ not request one.
 | Caller is not `user/<AWS_PROFILE>` | Admin keys are still exported. Unset `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_SESSION_TOKEN`, and `AWS_DEFAULT_PROFILE`, then retry. |
 | `AccessDenied` on `ce:` | Policy attached, then the billing IAM switch. Root user, Billing preferences. |
 | Phase 2 says not enrolled | Expected until you opt in yourself. The script will not do it. |
-| `--region` says the region is not enabled | `aws ec2 describe-regions --profile <user> --region us-east-1`. |
+| `--region` says the region is not enabled | `aws ec2 describe-regions --profile <iam-user-name> --region us-east-1`. |
 | Empty volumes in one region | That region has no unattached volumes. Other enabled regions are still scanned unless you passed `--region`. |
 | Phase 2 or 3 exits with status 2 | Re-run with `--confirm-phase`. |

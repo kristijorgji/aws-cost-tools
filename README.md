@@ -1,7 +1,7 @@
 # aws-cost-tools
 
-Read-only AWS spend snapshot shared by personal (`kj_devops`) and Single.al (`s_ops_infra_maze`)
-accounts. The IAM user can list and describe. It cannot stop, delete, or buy anything.
+Read-only AWS spend snapshot. The IAM user can list and describe. It cannot stop, delete, or buy
+anything.
 
 ## Requirements
 
@@ -12,8 +12,7 @@ accounts. The IAM user can list and describe. It cannot stop, delete, or buy any
 ## Run a snapshot
 
 ```bash
-AWS_PROFILE=kj-ai-cost-analysis bash scripts/aws-cost-snapshot.sh
-AWS_PROFILE=s-ai-cost-analysis bash scripts/aws-cost-snapshot.sh
+AWS_PROFILE=<iam-user-name> bash scripts/aws-cost-snapshot.sh
 ```
 
 `AWS_PROFILE` must be set. The script checks that `sts get-caller-identity` is `user/<that name>`.
@@ -32,6 +31,6 @@ docs/examples/aws-cost-snapshot/
 policies/billing-readonly.json.tmpl
 ```
 
-IAM users stay in each account's Terragrunt repo. Copy
+IAM users stay in each account's infra repo. Copy
 [`policies/billing-readonly.json.tmpl`](policies/billing-readonly.json.tmpl) into those stacks; do
 not create access keys in Terraform.

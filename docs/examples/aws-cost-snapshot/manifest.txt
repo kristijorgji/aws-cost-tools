@@ -1,11 +1,11 @@
-caller=user/kj-ai-cost-analysis
-monthly_start=2026-04-01
-daily_start=2026-09-22
-period_end_exclusive=2026-10-23
+caller=user/example-cost-analysis
+monthly_start=2026-01-01
+daily_start=2026-01-15
+period_end_exclusive=2026-02-01
 current_month_is_partial=yes
 cost_explorer_endpoint=us-east-1
 region_scope=all
 global_charges=included
 cost_explorer_requests=0
 estimated_cost_explorer_usd=0.00
-output=/Users/kristi.jorgji/Desktop/test/kristi/kj_devops-aws-cost/docs/examples/aws-cost-snapshot
+output=docs/examples/aws-cost-snapshot

@@ -41,8 +41,8 @@ usage() {
   cat <<'EOF'
 Usage: AWS_PROFILE=<cost-analysis-iam-user> bash scripts/aws-cost-snapshot.sh [options]
 
-  AWS_PROFILE must match the IAM user name (for example kj-ai-cost-analysis or
-  s-ai-cost-analysis). The script checks that sts get-caller-identity is that user.
+  AWS_PROFILE must match the IAM user name. The script checks that
+  sts get-caller-identity is user/<AWS_PROFILE>.
 
   --from-dir DIR    Reuse JSON in DIR. Skip Cost Explorer for files that already exist.
                     When all phase 1 JSON files are present, no AWS calls are made.
